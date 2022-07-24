@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+/* pricing section  */
+.wedding {
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+  top: -2%;
+  right: 8%;
+}
+.pricing .btn {
+  font-size: 0.835rem;
+}
